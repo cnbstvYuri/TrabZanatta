@@ -14,10 +14,10 @@
                 <label class = "logo">Proteus e-commerce</label>
                 <nav class = "menu">
                     <ul>
-                         <li><a href=index.html>Inicio</a></li>
-                         <li><a href=shop.html>shop</a></li>
-                         <li><a href=login.html>entrar</a></li>
-                         <li><a href=formtrab.html>Cadastrar-se</a></li>
+                         <li><a href=index.php>Inicio</a></li>
+                         <li><a href=shop.php>shop</a></li>
+                         <li><a href=login.php>entrar</a></li>
+                         <li><a href=formtrab.php>Cadastrar-se</a></li>
                     </ul>
                 </nav>
 
