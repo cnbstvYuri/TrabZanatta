@@ -15,7 +15,7 @@
                  <li><a href=index.php>Inicio</a></li>
                  <li><a href=shop.php>shop</a></li>
                  <li><a href=login.php>entrar</a></li>
-                 <li><a href=formtrab.php>Cadastrar-se</a></li>
+                 <li><a href=form.php>Cadastrar-se</a></li>
             </ul>
         </nav>
 
