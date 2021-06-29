@@ -1,0 +1,11 @@
+p {
+    font-weight: bold;
+  }
+  
+  p.success {
+    color: blue;
+  }
+  
+  p.error {
+    color: red;
+  }
